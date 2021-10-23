@@ -18,7 +18,7 @@ env:
   MANIFEST_BRANCH: twrp-10.0
   DEVICE: RMX2030
   DT_LINK: https://github.com/PitchBlackRecoveryProject/android_device_realme_RMX2030-pbrp
-  DT_PATH: device/realme
+  DT_PATH: device/realme/RMX2030
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
